@@ -28,3 +28,15 @@ To evaluate the model go to `evaluation-tracking` folder and run the [evaluate_a
 
 Watch the [video](https://www.youtube.com/watch?v=jgumuJfT5Pc)
 
+
+`
+@INPROCEEDINGS{9006273,
+  author={Sarker, Toqi Tahamid and Banda, Juan M.},
+  booktitle={2019 IEEE International Conference on Big Data (Big Data)}, 
+  title={Solar Event Tracking with Deep Regression Networks: A Proof of Concept Evaluation}, 
+  year={2019},
+  pages={4942-4949},
+  doi={10.1109/BigData47090.2019.9006273}}
+
+`
+
