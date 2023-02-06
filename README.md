@@ -4,6 +4,10 @@
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px; width: 400px" />
 
+<img src="https://raw.githubusercontent.com/toqitahamid/solar-event-tracking/main/videos/HMI_7269_labels/116.jpg"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px; width: 400px" />
+
 
 ### Event Download
 To download the solar event from [Heliospheric Events Knowledgebase (HEK)](https://www.lmsal.com/hek/) go to `data-download>hek-event-download` and run the `[hek_event_download_CH_SPoCA.py](https://github.com/toqitahamid/solar-event-tracking/blob/main/data-download/hek-event-download/hek_event_download_CH_SPoCA.py)`
