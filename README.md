@@ -10,7 +10,7 @@
 
 `White rectangle is the ground truth and the red rectangle is the generated bounding box`
 
-### [video](https://www.youtube.com/watch?v=jgumuJfT5Pc)
+### Watch the [video](https://www.youtube.com/watch?v=jgumuJfT5Pc)
 
 ### Event Download
 To download the solar event from [Heliospheric Events Knowledgebase (HEK)](https://www.lmsal.com/hek/) go to `data-download>hek-event-download` and run the [hek_event_download_CH_SPoCA.py](https://github.com/toqitahamid/solar-event-tracking/blob/main/data-download/hek-event-download/hek_event_download_CH_SPoCA.py)
