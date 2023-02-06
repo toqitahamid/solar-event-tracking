@@ -24,7 +24,7 @@ The `image-download` folder has codes for data pre-processing such as convert JP
 To train the deep regression network use [GOTURN](https://github.com/davheld/GOTURN)
 
 ### Evaluation
-To evaluate the model go to `evaluation-tracking` folder
+To evaluate the model go to `evaluation-tracking` folder and run the `[evaluate_all_csv.py](https://github.com/toqitahamid/solar-event-tracking/blob/main/evaluation-tracking/evaluate_all_csv.py)`
 
 Watch the [video](https://www.youtube.com/watch?v=jgumuJfT5Pc)
 
