@@ -5,7 +5,7 @@
 
 <div style="display:flex;">
   <img src="https://raw.githubusercontent.com/toqitahamid/solar-event-tracking/main/videos/HMI_7269_labels/106.jpg" style="width:400px;margin-right:10px;">
-  <img src="https://raw.githubusercontent.com/toqitahamid/solar-event-tracking/main/videos/HMI_7269_labels/116.jpg" style="width:400px;">
+  <img src="https://raw.githubusercontent.com/toqitahamid/solar-event-tracking/main/videos/HMI_7269_labels/151.jpg" style="width:400px;">
 </div>
 
 
