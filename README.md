@@ -8,7 +8,7 @@
   <img src="https://raw.githubusercontent.com/toqitahamid/solar-event-tracking/main/videos/HMI_7269_labels/151.jpg" style="width:400px;">
 </div>
 
-`White rectangle box is the ground truth and the red rectangle box is the generated bounding box`
+`White rectangle is the ground truth and the red rectangle is the generated bounding box`
 
 ### Event Download
 To download the solar event from [Heliospheric Events Knowledgebase (HEK)](https://www.lmsal.com/hek/) go to `data-download>hek-event-download` and run the `[hek_event_download_CH_SPoCA.py](https://github.com/toqitahamid/solar-event-tracking/blob/main/data-download/hek-event-download/hek_event_download_CH_SPoCA.py)`
