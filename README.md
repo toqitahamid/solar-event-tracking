@@ -1,12 +1,12 @@
 # [Solar Event Tracking with Deep Regression Networks](https://ieeexplore.ieee.org/document/9006273)
 
-<img src="https://raw.githubusercontent.com/toqitahamid/solar-event-tracking/main/videos/HMI_7269_labels/106.jpg"
-     alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px; width: 400px" />
+<div style="display:flex;">
 
-<img src="https://raw.githubusercontent.com/toqitahamid/solar-event-tracking/main/videos/HMI_7269_labels/116.jpg"
-     alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px; width: 400px" />
+
+<div style="display:flex;">
+  <img src="https://raw.githubusercontent.com/toqitahamid/solar-event-tracking/main/videos/HMI_7269_labels/106.jpg" style="width:400px;margin-right:10px;">
+  <img src="https://raw.githubusercontent.com/toqitahamid/solar-event-tracking/main/videos/HMI_7269_labels/116.jpg" style="width:400px;">
+</div>
 
 
 ### Event Download
