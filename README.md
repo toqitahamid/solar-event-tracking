@@ -11,11 +11,11 @@
 `White rectangle is the ground truth and the red rectangle is the generated bounding box`
 
 ### Event Download
-To download the solar event from [Heliospheric Events Knowledgebase (HEK)](https://www.lmsal.com/hek/) go to `data-download>hek-event-download` and run the `[hek_event_download_CH_SPoCA.py](https://github.com/toqitahamid/solar-event-tracking/blob/main/data-download/hek-event-download/hek_event_download_CH_SPoCA.py)`
+To download the solar event from [Heliospheric Events Knowledgebase (HEK)](https://www.lmsal.com/hek/) go to `data-download>hek-event-download` and run the [hek_event_download_CH_SPoCA.py](https://github.com/toqitahamid/solar-event-tracking/blob/main/data-download/hek-event-download/hek_event_download_CH_SPoCA.py)
 
 
 ### Solar Image Download
-To download the images from [Solar Dynamics Observatory (SDO)](https://student.helioviewer.org/) go to `data_download>image-download` and run `[download_image_AR_dump.py](https://github.com/toqitahamid/solar-event-tracking/blob/main/data-download/image-download/download_image_AR_dump.py)` to download the solar images using the HEK event files.
+To download the images from [Solar Dynamics Observatory (SDO)](https://student.helioviewer.org/) go to `data_download>image-download` and run [download_image_AR_dump.py](https://github.com/toqitahamid/solar-event-tracking/blob/main/data-download/image-download/download_image_AR_dump.py) to download the solar images using the HEK event files.
 
 The `image-download` folder has codes for data pre-processing such as convert JP2 to JPG, finding duplicate events etc.
 
@@ -24,7 +24,7 @@ The `image-download` folder has codes for data pre-processing such as convert JP
 To train the deep regression network use [GOTURN](https://github.com/davheld/GOTURN)
 
 ### Evaluation
-To evaluate the model go to `evaluation-tracking` folder and run the `[evaluate_all_csv.py](https://github.com/toqitahamid/solar-event-tracking/blob/main/evaluation-tracking/evaluate_all_csv.py)`
+To evaluate the model go to `evaluation-tracking` folder and run the [evaluate_all_csv.py](https://github.com/toqitahamid/solar-event-tracking/blob/main/evaluation-tracking/evaluate_all_csv.py)
 
 Watch the [video](https://www.youtube.com/watch?v=jgumuJfT5Pc)
 
